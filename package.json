@@ -1,0 +1,28 @@
+{
+  "name": "prueba-t-cnica-pokemon-ftd-apgq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test tests/pokemon.spec.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariannespgq/Prueba-T-cnica-Pokemon-FTD-apgq.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ariannespgq/Prueba-T-cnica-Pokemon-FTD-apgq/issues"
+  },
+  "homepage": "https://github.com/ariannespgq/Prueba-T-cnica-Pokemon-FTD-apgq#readme",
+  "dependencies": {
+    "@playwright/test": "^1.58.2",
+    "playwright": "^1.58.2"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "dotenv": "^17.3.1"
+  }
+}

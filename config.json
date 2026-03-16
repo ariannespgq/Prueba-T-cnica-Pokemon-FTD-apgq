@@ -1,0 +1,4 @@
+{
+  "pokemon": "pidgey",
+  "description": "Cambia el valor de 'pokemon' por el nombre del Pokémon que deseas probar (bulbasaur, charmander, squirtle, caterpie, weedle, pidgey, rattata, etc.)"
+}
