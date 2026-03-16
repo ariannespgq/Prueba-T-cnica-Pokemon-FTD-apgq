@@ -4,7 +4,7 @@
  */
 
 // ============================================================================
-// 1. Respuesta de la lista de Pokémon (https://pokeapi.co/api/v2/pokemon/)
+// 1. Respuesta de la lista de Pokémon 
 // ============================================================================
 
 export interface PokemonListResponse {
@@ -20,7 +20,7 @@ export interface PokemonEntry {
 }
 
 // ============================================================================
-// 2. Detalles de un Pokémon (https://pokeapi.co/api/v2/pokemon/{id}/)
+// 2. Detalles de un Pokémon 
 // ============================================================================
 
 export interface PokemonDetailsResponse {
@@ -38,7 +38,7 @@ export interface Pokemon {
 }
 
 // ============================================================================
-// 3. Detalles de la especie (https://pokeapi.co/api/v2/pokemon-species/{id}/)
+// 3. Detalles de la especie 
 // ============================================================================
 
 export interface SpeciesResponse {
@@ -49,7 +49,7 @@ export interface SpeciesResponse {
 }
 
 // ============================================================================
-// 4. Cadena de evoluciones (https://pokeapi.co/api/v2/evolution-chain/{id}/)
+// 4. Cadena de evoluciones 
 // ============================================================================
 
 export interface EvolutionChainResponse {
